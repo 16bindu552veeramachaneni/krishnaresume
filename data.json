@@ -1,0 +1,52 @@
+{
+	" basics":{
+		" name":"gokula krishna",
+		" role":" mean-stack",
+		" moblie":" +91 9885402828",
+		" email":" krishnaradha123@gmail.com"
+
+	},
+	"career":{
+		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+		
+	},
+	"education":[
+		{
+            "degree":"B.tech( computer science & Engineering)",
+            "institute":"vignans nirula",
+            "data":["2016-2020","75%"]
+},
+{
+	
+            "degree": "intermidiate(mpc)",
+            "institute":"sri chaitanya",
+            "data":["2014-2016","75%"]
+},
+{
+	
+            "degree": "s.s.c",
+            "institute":"bhasyam",
+            "data":["2013-2014","70%"]
+}
+],
+	"skills":[
+		{
+			"title":"programming Languages",
+			"content":["python","c","java","cpp","R"]
+		},
+		{
+			"title":"Data Base",
+			"content":["sql","oracle","my sql"]
+		},
+		{
+			"title":"web technologies",
+			"content":["HTML","XML","java script"]
+		},
+		{
+			"title":"operating system",
+			"content":["windows","unix","linux"]
+		}
+
+	]
+}
+		
